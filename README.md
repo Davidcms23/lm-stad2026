@@ -3,11 +3,13 @@ STAD 2026 na disciplina de Modelos Lineares
 
 # Como usar o Conda
 
-## Oque é
+## Ambiente virtual
+
+## Jupyter
 
 ## Iniciando o Jupyter lab
 
-# Iniciando um notebook
+# Notebook
 
 ## Blibiotecas
 
