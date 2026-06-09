@@ -29,12 +29,6 @@ Por que usar o [conda-forge](https://conda-forge.org/docs/user/introduction/)?
 jupyter lab
 ```
 
-## Ambiente virtual
-
-## Jupyter
-
-## Iniciando o Jupyter lab
-
 # Notebook
 
 ## Blibiotecas
