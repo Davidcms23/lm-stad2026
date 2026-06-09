@@ -13,6 +13,8 @@ STAD 2026 na disciplina de Modelos Lineares
 
 ## Blibiotecas
 
+Ver [lista](https://github.com/Davidcms23/lm-stad2026/blob/main/requirements.txt)
+
 ## Funções
 
 ### Descrições
