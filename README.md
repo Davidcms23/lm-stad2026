@@ -3,21 +3,25 @@ STAD 2026 na disciplina de Modelos Lineares
 
 # Como usar o Conda
 
+Baixe o ambiente pronto yaml (aqui)
+
 **Ative o ambiente virtual**
 
 ```bash
-conda activate [ambiente]
+conda activate [nome_do_ambiente]
 ```
 
 **Instale os pacotes**
 
 ```bash
-conda install pandas numpy scipy
+conda install -c conda-forge pandas numpy scipy
 ```
 ou
 ```bash
-conda install -r requirements.txt
+conda install -c conda-forge --file requirements.txt
 ```
+
+Por que usar o (conda-forge)[https://conda-forge.org/docs/user/introduction/]?
 
 **Inicie o jupyter**
 
