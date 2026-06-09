@@ -21,7 +21,7 @@ ou
 conda install -c conda-forge --file requirements.txt
 ```
 
-Por que usar o (conda-forge)[https://conda-forge.org/docs/user/introduction/]?
+Por que usar o [conda-forge](https://conda-forge.org/docs/user/introduction/)?
 
 **Inicie o jupyter**
 
