@@ -1,8 +1,8 @@
 # STAD 2026 na disciplina de Modelos Lineares 
 
-# Como usar o Conda
+# Como usar o conda
 
-Baixe o ambiente pronto yaml (aqui)
+Baixe o ambiente pronto yaml [aqui]
 
 **1. Ative o ambiente virtual**
 
@@ -32,7 +32,7 @@ jupyter lab
 
 ## Blibiotecas
 
-Ver lista [aqui](https://github.com/Davidcms23/lm-stad2026/blob/main/requirements.txt)
+Veja lista [aqui](https://github.com/Davidcms23/lm-stad2026/blob/main/requirements.txt)!
 
 ## Funções
 
