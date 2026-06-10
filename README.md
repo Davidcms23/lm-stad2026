@@ -33,6 +33,9 @@ micromamba activate stad261
 ```bash
 uv pip install numpy pandas statsmodels scipy
 ```
+```bash
+uv pip install jupyterlab
+```
 
 **3. Inicie o jupyter**
 
