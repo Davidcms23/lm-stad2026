@@ -21,6 +21,7 @@ conda install -c conda-forge --file requirements.txt
 ```
 
 Por que usar o [conda-forge](https://conda-forge.org/docs/user/introduction/)?
+
 Cultura livre? use o [micromamba](https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html)!
 
 **3. Inicie o jupyter**
