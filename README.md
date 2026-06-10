@@ -27,6 +27,12 @@ Cultura livre? use o [micromamba](https://mamba.readthedocs.io/en/latest/install
 ```bash
 micromamba create --name stad261 python=3.12 uv -c conda-forge
 ```
+```bash
+micromamba activate stad261
+```
+```bash
+uv pip install numpy pandas statsmodels scipy
+```
 
 **3. Inicie o jupyter**
 
