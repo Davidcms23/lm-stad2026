@@ -24,6 +24,10 @@ Por que usar o [conda-forge](https://conda-forge.org/docs/user/introduction/)?
 
 Cultura livre? use o [micromamba](https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html)!
 
+```bash
+micromamba create --name stad261 python=3.12 uv -c conda-forge
+```
+
 **3. Inicie o jupyter**
 
 ```bash
