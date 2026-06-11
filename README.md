@@ -4,6 +4,10 @@
 
 Baixe o ambiente pronto [aqui](https://github.com/Davidcms23/202601stad-lm/blob/main/environment.yml)
 
+```bash
+conda env create -f environment.yml -n new_env_name
+```
+
 **1. Ative o ambiente virtual**
 
 ```bash
