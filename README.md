@@ -5,11 +5,13 @@
 Baixe o ambiente pronto [aqui](https://github.com/Davidcms23/202601stad-lm/blob/main/environment.yml)
 
 ```bash
-conda install -c conda-forge mamba -y
-```
-conda ou mamba
-```bash
 conda env create -f environment.yml -n new_env_name
+```
+
+## Criando um ambiente
+
+```bash
+conda create --name labest00 python=3.12
 ```
 
 **1. Ative o ambiente virtual**
