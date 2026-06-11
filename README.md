@@ -5,6 +5,10 @@
 Baixe o ambiente pronto [aqui](https://github.com/Davidcms23/202601stad-lm/blob/main/environment.yml)
 
 ```bash
+conda install -c conda-forge mamba -y
+```
+conda ou mamba
+```bash
 conda env create -f environment.yml -n new_env_name
 ```
 
