@@ -53,5 +53,5 @@ uv pip install jupyterlab
 jupyter lab
 ```
 
-###referência:
+### referência:
 [Linear Models with Python, Julian J. Faraway](https://www.taylorfrancis.com/books/mono/10.1201/9781351053419/linear-models-python-julian-faraway)
