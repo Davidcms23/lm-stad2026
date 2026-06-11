@@ -2,7 +2,7 @@
 
 # Como usar o conda
 
-Baixe o ambiente pronto yaml [aqui](https://github.com/Davidcms23/202601stad-lm/blob/main/environment.yml)
+Baixe o ambiente pronto [aqui](https://github.com/Davidcms23/202601stad-lm/blob/main/environment.yml)
 
 **1. Ative o ambiente virtual**
 
